@@ -3,4 +3,5 @@ GitHub Repository zum CAS Business Intelligence and Analytics (BIA) der Hochschu
 
 Repository und Austauschplattform für Code, Data, Samples, Libraries etc. von Dozierenden und Studierenden des CAS
 
-Initialversion: April 2020 / dbe
+##### Initialversion: April 2020 / dbe
+##### Angepasst/erweitert: Januar 2022 / dbe
